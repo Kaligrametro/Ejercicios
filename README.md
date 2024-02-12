@@ -7,5 +7,5 @@ Para ilustrar, en la posición 50, el número impreso es 8188013234823360, que c
 # Postulación:
 [CompuTrabajo](https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programadores-en-bariloche-82BCA48CE5572CBC61373E686DCF3405)
 
-# CV:
+# Perfil:
 [Linkedin](www.linkedin.com/in/francisco-califano-277a71284)
