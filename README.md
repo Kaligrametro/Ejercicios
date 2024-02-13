@@ -7,7 +7,7 @@ Para ilustrar, en la posición 50, el número impreso es 8188013234823360, que c
 # Solución
 El algoritmo desarrollado es capaz de llegar a la solución con una complejidad de O(n).
 Sin embargo, debido a la complejidad, llegar al puesto requerido por la consigna tomaría mucho tiempo.
-Para intentar reducir la complejidad intenté encontrar patrones o puntos donde la secuencia de numeros se empiece a repetir pero no lo encontre, si es que existe.
+Para intentar reducir la complejidad intenté encontrar patrones o puntos donde la secuencia de números se empiece a repetir pero no lo encontré, si es que existe.
 
 # Postulación:
 [CompuTrabajo](https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programadores-en-bariloche-82BCA48CE5572CBC61373E686DCF3405)
