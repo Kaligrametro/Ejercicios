@@ -14,3 +14,4 @@ Para intentar reducir la complejidad intenté encontrar patrones o puntos donde 
 
 # Perfil:
 [Linkedin](www.linkedin.com/in/francisco-califano-277a71284)
+[Perfil escolar](https://github.com/CalifanoFrancisco)
