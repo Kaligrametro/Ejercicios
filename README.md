@@ -13,5 +13,5 @@ Para intentar reducir la complejidad intenté encontrar patrones o puntos donde 
 [CompuTrabajo](https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programadores-en-bariloche-82BCA48CE5572CBC61373E686DCF3405)
 
 # Perfil:
-[Linkedin](www.linkedin.com/in/francisco-califano-277a71284)
-[Perfil escolar](https://github.com/CalifanoFrancisco)
+> [Linkedin](www.linkedin.com/in/francisco-califano-277a71284)
+> [Perfil escolar](https://github.com/CalifanoFrancisco)
